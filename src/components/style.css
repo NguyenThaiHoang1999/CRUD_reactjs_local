@@ -1,0 +1,37 @@
+.on{
+    color: yellow;
+}
+.ulnav{
+    position: absolute;
+    right: 10px;
+    display: flex;
+    float: right;
+}
+.home{
+    margin-top: 100px;
+}
+.text{
+    border-bottom: 1px solid tan;
+}
+.span-text{
+    float: right;
+}
+.span-text-book{
+    float: right;
+    font-weight: bold;
+    color: tan;
+}
+.img{
+    width: 100%;
+}
+.span-text-old{
+    float: right;
+    text-decoration-line: line-through;
+    opacity: 0.5;
+}
+.item{
+    margin-top: 10px;
+}
+.item-bar{
+    margin-right: 30px;
+}
